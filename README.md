@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Full-Stack Web Developer / Full-Stack Web Delevelopment Tutor<br>🌱 I’m currently expanding my knowledge about Docker and Tests<br>⚡ I'm a father that loves technology and games
+🔭 Full-Stack Web Developer <br>🌱 I’m currently expanding my knowledge about Docker and Tests<br>⚡ I'm a father that loves technology and games
 
 
 ## 🌐 Socials:
